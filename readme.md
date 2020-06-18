@@ -1,10 +1,3 @@
----
-title: unity游戏开发入门笔记_1
-date: 2020-06-18 13:07:55
-tags: unity游戏开发
-categories: 
-- unity游戏开发
----
 参照了一个十分钟游戏制作挑战的视频：https://www.bilibili.com/video/BV1Ca4y1x7RP
 
 将一些技巧记录在此：
